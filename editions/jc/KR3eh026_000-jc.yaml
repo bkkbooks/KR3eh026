@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3eh026/jc/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 跋漢張仲景氏之書具悉治病之方法矣然學而不精泥而不通則誤治者亦不少也麓山中川先生家世軒岐嘗博撮古今之良方有合於仲景氏之旨意者躬親經驗者多年久之編一書成名曰證治摘要以授之子弟雖然醫者意也善得其意不膠於法善通其變而不誤於治則先生之所深望於子弟也夫元治甲子歲冬十二月門人肥後支藩大村守約識師古手未染此者安達其意耶一旦對病心與目達亦盲子辨色耳夫欲入室者先升堂而階之自欲追跡於張氏自此升哉乃先生之力豈不多耶此唯學緒餘已雖然頗見其志焉文久壬戌黃鐘月云窗金謙撰
+  hash: sha256:2eeb1aa78f3ee80739796e19269aa8d98d260c67809f7a202d9e1076e69a35e4
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3eh026_jc_000-d6.h1s1}
+metadata:
+  title: 證治摘要
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eh026.xml
+hash: sha256:ee86d4a2d2cbf6f9bf44029aaac257fe3bbe22174a307f3ee18f903e420052d1
